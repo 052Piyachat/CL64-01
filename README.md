@@ -1,5 +1,8 @@
-#inclde <studio.h>
-main()
+#include <stdio.h>
+int main ()
 {
-prinf("hello,ปิยฉัตร ศิริบรรณากูล\m"):
+   char yourname[100];
+   printf("What is your name?\t");
+   scanf("%s",yourname);
+    printf("hello, %s\n", yourname);
 }
