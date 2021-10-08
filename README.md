@@ -1,5 +1,5 @@
 #inclde <studio.h>
 main()
 {
-prinf("hello,world\m"):
+prinf("hello,ปิยฉัตร ศิริบรรณากูล\m"):
 }
